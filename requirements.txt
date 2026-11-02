@@ -1,0 +1,9 @@
+PySide6>=6.5
+numpy>=1.24
+Pillow>=9.0
+
+# 仅复现实验/出图时需要
+matplotlib>=3.7
+
+# 仅打包 exe 时需要
+# pyinstaller>=6.0
