@@ -63,7 +63,7 @@
 
 ### 方式一：直接用 exe（推荐给普通用户）
 
-1. 到 [Releases](../../releases) 下载 `WhalePet.exe`
+1. 到 [Releases](https://github.com/HowardHH121/whale-maid-pet/releases) 下载 `WhalePet.exe`
 2. 放到**可写目录**（桌面、D 盘、U 盘都行，别放 `C:\Program Files`）
 3. 双击运行。首次会弹 Windows SmartScreen，点「更多信息 → 仍要运行」
 
@@ -72,7 +72,7 @@
 ### 方式二：从源码运行
 
 ```bash
-git clone https://github.com/<your-name>/whale-maid-pet.git
+git clone https://github.com/HowardHH121/whale-maid-pet.git
 cd whale-maid-pet
 pip install -r requirements.txt
 python pet.py
