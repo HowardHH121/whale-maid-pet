@@ -3,7 +3,7 @@
 """桌宠数学模块的实验与配图。
 
 运行：python experiments/run_experiments.py
-输出：F:\\人工智能数学基础\\figs\\*.png 与 metrics.json
+输出：<repo>/figs/*.png 与 metrics.json
 """
 
 from __future__ import annotations

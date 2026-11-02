@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-"""生成报告用的系统架构图。"""
+"""生成项目系统架构图。"""
 
 from pathlib import Path
 
